@@ -1,0 +1,7 @@
+﻿  Math.cpp
+D:\info\oop\OOP3\OOP3\Math.cpp(17,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\info\oop\OOP3\OOP3\Math.cpp(22,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\info\oop\OOP3\OOP3\Math.cpp(37,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\info\oop\OOP3\OOP3\Math.cpp(42,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\info\oop\OOP3\OOP3\Math.cpp(63,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\info\oop\OOP3\OOP3\Math.cpp(64,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
