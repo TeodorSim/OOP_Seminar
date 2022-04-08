@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Number.cpp
+D:\info\OOP_Seminar\OOP5\OOP5\Number.cpp(35,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\info\OOP_Seminar\OOP5\OOP5\Number.cpp(52,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  OOP5.vcxproj -> D:\info\OOP_Seminar\OOP5\x64\Debug\OOP5.exe
