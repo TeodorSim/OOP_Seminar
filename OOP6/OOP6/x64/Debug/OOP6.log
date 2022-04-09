@@ -1,0 +1,3 @@
+﻿  Toyota.cpp
+D:\info\newFinal\OOP6\OOP6\Toyota.cpp(28,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  OOP6.vcxproj -> D:\info\newFinal\OOP6\x64\Debug\OOP6.exe
