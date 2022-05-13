@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\info\OOP_Seminar\OOP7\OOP7\main.cpp(5,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\info\OOP_Seminar\OOP7\OOP7\main.cpp(8,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  OOP7.vcxproj -> D:\info\OOP_Seminar\OOP7\x64\Debug\OOP7.exe
