@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\info\OOP_Seminar\OOP7.1\OOP7.1\Vector.cpp(26): warning C4715: 'Vector<Person>::pop': not all control paths return a value
+D:\info\OOP_Seminar\OOP7.1\OOP7.1\Vector.cpp(92): warning C4715: 'Vector<Person>::get': not all control paths return a value
+  OOP7.1.vcxproj -> D:\info\OOP_Seminar\OOP7.1\x64\Debug\OOP7.1.exe
